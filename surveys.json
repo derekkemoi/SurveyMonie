@@ -3,7 +3,7 @@
     "surveys": [
         {
             "surveyId": "1",
-            "surveyCategory": "Welcome to Appex",
+            "surveyCategory": "Welcome to Surveymonie",
             "surveyPaid": false,
             "surveyAmount": 70,
             "surveyQuestions": [
@@ -15,7 +15,8 @@
                         "Twitter",
                         "Instagram",
                         "Facebook",
-                        "Friend"
+                        "Friend",
+                        "Our Website"
                     ]
                 },
                 {
@@ -27,7 +28,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Appex allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+                    "surveyQuestion": "Surveymonie allows you to earn money from every survey. You will receive your payment when you submit your survey.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
